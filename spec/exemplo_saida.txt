@@ -1,0 +1,32 @@
+Deseja digitar o numero a ser adivinhado? (1 = sim, 0 = nao): Digite o numero a ser adivinhado: 
+Tentativa 1: Numero de digitos em posicoes certas = 1
+Numero de digitos certos = 1
+
+Tentativa 2: Numero de digitos em posicoes certas = 0
+Numero de digitos certos = 1
+
+Tentativa 3: Numero de digitos em posicoes certas = 0
+Numero de digitos certos = 1
+
+Tentativa 4: Numero de digitos em posicoes certas = 0
+Numero de digitos certos = 2
+
+Tentativa 5: Numero de digitos em posicoes certas = 2
+Numero de digitos certos = 2
+
+Tentativa 6: Numero de digitos em posicoes certas = 3
+Numero de digitos certos = 3
+
+Tentativa 7: Numero de digitos em posicoes certas = 3
+Numero de digitos certos = 4
+
+Tentativa 8: Numero de digitos em posicoes certas = 3
+Numero de digitos certos = 4
+
+Tentativa 9: Numero de digitos em posicoes certas = 4
+Numero de digitos certos = 4
+
+Tentativa 10: Numero de digitos em posicoes certas = 4
+Numero de digitos certos = 4
+
+Parabens! Voce adivinhou o numero!
